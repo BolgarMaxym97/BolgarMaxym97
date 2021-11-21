@@ -129,7 +129,7 @@
 <br/>
 
 ## 📈Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BolgarMaxym97&show_icons=true&count_private=true&hide_border=true&theme=gotham" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BolgarMaxym97&show_icons=true&count_private=true&theme=gotham" align="center" /></div>  
 
 <br/>
 <br/>
@@ -137,7 +137,7 @@
 
 <div align="center">
 <a href="https://github.com/BolgarMaxym97/github-readme-stats">
-<img alt="BolgarMaxym97's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BolgarMaxym97&langs_count=8&layout=compact&theme=gotham&hide_border=true&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+<img alt="BolgarMaxym97's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BolgarMaxym97&langs_count=8&layout=compact&theme=gotham&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 </div>
 <br/>  
 <br/>
