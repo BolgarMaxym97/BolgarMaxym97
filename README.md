@@ -80,12 +80,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
-</div>  
-
-<div align="center">
-<img src="https://www.xelent.ru/upload/iblock/811/configure-the-Apache-web-server.jpg" align="center" height="70" width="70" />
-</div>  
-
+</div>
 
 </td></tr></table>  
 
