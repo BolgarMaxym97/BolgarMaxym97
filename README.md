@@ -58,7 +58,7 @@
 </div>  
 
 <div align="center">
-<img src="https://habrastorage.org/getpro/habr/upload_files/379/f1d/4a0/379f1d4a0b8492b450af020f6abd8130.png" align="center" height="50" width="50" />
+<img src="https://cdn.iconscout.com/icon/free/png-256/yii-283048.png" align="center" height="50" width="50" />
 </div>  
 
 
