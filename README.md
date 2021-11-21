@@ -34,11 +34,8 @@
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-</div>  
-
-<div align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/highcharts.svg" align="center" height="50" width="50" />
-</div>  
+<img style="margin: 20px" src="https://cdn.worldvectorlogo.com/logos/highcharts.svg" align="center" height="50" width="50" />
+</div>
 
 
 </td><td valign="top" width="33%">
@@ -48,18 +45,16 @@
 ### Backend
 <div align="center">  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 20px" src="https://cdn.iconscout.com/icon/free/png-256/yii-283048.png" align="center" height="50" width="50" />
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/influxdb.svg" alt="InfluxDB" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 20px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" alt="PostgreSQL" height="50" />
-</div>  
-
-<div align="center">
-<img src="https://cdn.iconscout.com/icon/free/png-256/yii-283048.png" align="center" height="50" width="50" />
-</div>  
+<img style="margin: 20px" src="https://www.timescale.com/images/icon.png" alt="PostgreSQL" height="50" />
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+</div>
 
 
 </td><td valign="top" width="33%">
@@ -78,6 +73,7 @@
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
+<img style="margin: 20px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/apache/apache-original.svg" alt="PowerShell" height="50" />  
 </div>
 
 </td></tr></table>  
