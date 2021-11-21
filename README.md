@@ -45,7 +45,6 @@
 ### Backend
 <div align="center">  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 20px" src="https://cdn.iconscout.com/icon/free/png-256/yii-283048.png" align="center" height="50" width="50" />
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
@@ -54,6 +53,7 @@
 <img style="margin: 20px" src="https://www.timescale.com/images/icon.png" alt="PostgreSQL" height="50" />
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+<img style="margin: 20px" src="https://cdn.iconscout.com/icon/free/png-256/yii-283048.png" align="center" height="50" width="50" />
 </div>
 
 
