@@ -130,7 +130,7 @@
 
 ## 📈Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BolgarMaxym97&show_icons=true&count_private=true&theme=gotham" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BolgarMaxym97&show_icons=true&count_private=true&theme=gotham&layout=compact" align="center" />
   <a href="https://github.com/BolgarMaxym97/github-readme-stats">
 <img alt="BolgarMaxym97's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BolgarMaxym97&langs_count=8&layout=compact&theme=gotham&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 </div>  
