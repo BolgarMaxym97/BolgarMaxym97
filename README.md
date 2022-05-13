@@ -5,13 +5,6 @@
 
 ### <div align="center">I'm Max, a full-time full-stack developer 👨‍💻 with more then 4 years experiance 🚀</div>
 
-
-- 📱 I’m currently working on mobile application based on React Native framework and wep services
-
-
-- 📖 I’m currently learning React Native and AWS services
-
-
 <br/>  
 
 
