@@ -3,7 +3,7 @@
 </div>  
 
 
-### <div align="center">I'm Max, a full-time full-stack developer 👨‍💻 with more than 4 years experience 🚀</div>
+### <div align="center">I'm Max, a full-time full-stack developer 👨‍💻 with more than 5 years experience 🚀</div>
 
 <br/>  
 
