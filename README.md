@@ -72,7 +72,7 @@
 
 
 
-### DevOps
+### Other
 <div align="center">  
 <div align="center">
 <img style="margin: 20px" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" alt="AWS" height="50" />  
