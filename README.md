@@ -121,7 +121,7 @@
 
 <br/>
 
-## 📈Github Stats
+<!-- ## 📈Github Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BolgarMaxym97&show_icons=true&count_private=true&theme=gotham" align="center" />
 
@@ -139,7 +139,7 @@
 <br/>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=BolgarMaxym97&&style=flat-square" align="center" />
-</div>  
+</div>   -->
 
 
 <br/>
