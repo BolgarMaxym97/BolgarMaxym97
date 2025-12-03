@@ -57,7 +57,7 @@
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/influxdb.svg" alt="InfluxDB" height="50" />  
 </div>
 <div align="center">
-<img style="margin: 20px" src="https://icon2.cleanpng.com/20180806/tq/202af82604f244d31acbf24e05e2caa7.webp" alt="PostgreSQL" height="50" />
+<img style="margin: 20px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" alt="PostgreSQL" height="50" />
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 </div>
@@ -74,7 +74,7 @@
 ### Other
 <div align="center">  
 <div align="center">
-<img style="margin: 20px" src="https://icon2.cleanpng.com/20190418/vhc/kisspng-amazon-web-services-logo-cloud-computing-amazon-co-logoaws-1-itnext-summit-1713897597915.webp" alt="AWS" height="50" />  
+<img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/640px-Amazon_Web_Services_Logo.svg.png" alt="AWS" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
