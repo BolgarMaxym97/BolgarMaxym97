@@ -55,7 +55,6 @@
 <div align="center">
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/influxdb.svg" alt="InfluxDB" height="50" />  
-<img style="margin: 20px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" alt="PostgreSQL" height="50" />
 </div>
 <div align="center">
 <img style="margin: 20px" src="https://icon2.cleanpng.com/20180806/tq/202af82604f244d31acbf24e05e2caa7.webp" alt="PostgreSQL" height="50" />
