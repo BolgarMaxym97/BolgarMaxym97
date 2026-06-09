@@ -63,7 +63,7 @@
 </div>
 <div align="center">
 <img style="margin: 20px" src="https://cdn.iconscout.com/icon/free/png-256/yii-283048.png" align="center" height="50" width="50" />
-  <img style="margin: 20px" src="https://www.svgrepo.com/show/353950/kafka.svg" align="center" height="50" width="50" />
+
   <img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/960px-Grafana_logo.svg.png" align="center" height="50" width="50" />
 </div>
 </div>
